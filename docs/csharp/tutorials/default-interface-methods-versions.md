@@ -55,7 +55,7 @@ C# 8.0 컴파일러를 포함하여 .NET Core를 실행하도록 머신을 설�
 
 [!code-csharp[InitialOrderInterface](~/samples/snippets/csharp/tutorials/default-interface-members-versions/finished/customer-relationship/ICustomer.cs?name=SnippetLoyaltyDiscountVersionOne)]
 
-라이브러리 작성자는 구현을 확인하기 위해 첫 번재 테스트를 작성했습니다.
+라이브러리 작성자는 구현을 확인하기 위해 첫 번째 테스트를 작성했습니다.
 
 [!code-csharp[TestDefaultImplementation](~/samples/snippets/csharp/tutorials/default-interface-members-versions/finished/customer-relationship/Program.cs?name=SnippetTestDefaultImplementation)]
 
